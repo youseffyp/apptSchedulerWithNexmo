@@ -28,7 +28,7 @@ const appointmentController = {
 		slots: newslot.id
 	});
 
-	const nexmo = new Nexmo({
+		const nexmo = new Nexmo({ //nexmo credentials here
 		
 	});
 
